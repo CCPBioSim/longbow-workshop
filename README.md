@@ -4,7 +4,7 @@
 
 Basic knowledge of the Linux command-line and how to use Jupyter notebooks and terminal.
 
-## Trainng Material
+## Training Material
 
 1. **Setup**: An introduction to getting Longbow set up for use with ARCHER.
 2. **Simulation Basics**: An introduction to submitting simulations in using the job types available in Longbow.
